@@ -90,11 +90,20 @@ Author: @gibrain, @100%Linux
 * Use LLM effectively
 * Visualization Automation
 
+## Integrasi DuckDB
+* in memory processing
+* big data
+ 
+## Data Science With Postgres
+* (buku terpisah)
+  
 ## Case studies 
 * ERP Complexities
 * Heterogeneous Business Problems
 * Heterogeneous Software
 * Heterogeneous 3rd Party Vendor 
+
+
 
 ## Epilogue
 * Management Wisdom

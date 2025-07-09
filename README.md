@@ -85,6 +85,11 @@ Author: @gibrain, @100%Linux
 * In Place or Not-in Place Upgrade
 * Post Upgrade Tasks
 
+## Postgres & LLM's
+* Query Design Automation
+* Use LLM effectively
+* Visualization Automation
+
 ## Case studies 
 * ERP Complexities
 * Heterogeneous Business Problems

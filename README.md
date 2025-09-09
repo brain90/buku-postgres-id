@@ -3,6 +3,14 @@
 Kitab postgres bahasa indonesia
 Author: @gibrain, @100%Linux
 
+## Engineering Wisdom
+* Data Valuation vs Backup 
+* Don't start production without backup
+* Mirror is not backup (Mirror vs BaseBackup)
+* Design Principle: Keep it simple. STUPID !.
+* Centralized vs Distributed
+* TERABYTE Mirroring Best Practices
+* Faster Data Load Technique ( DuckDB )
 
 ## Server Architecture 
 * Background process: Postmaster, Postgres, Autovacuum, Stats collector, Background writer, Wal Writer,  Logger Process, Checkpointer process, Replication Process

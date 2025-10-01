@@ -13,6 +13,7 @@ Author: @gibrain, @100%Linux
 * Faster Data Load Technique ( DuckDB )
 
 ## Server Architecture 
+* Connection Process ( Thread Vs Process )
 * Background process: Postmaster, Postgres, Autovacuum, Stats collector, Background writer, Wal Writer,  Logger Process, Checkpointer process, Replication Process
 * Memory: Shared Buffers, Work memory, Wal Buffers, Maintenance Work Memory, etc
 * Logical Structure: Cluster, Database, Schema (tables, indexes, view, functions, rules, tablespaces, etc), users

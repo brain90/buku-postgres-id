@@ -10,7 +10,8 @@ Author: @gibrain, @100%Linux
 * Design Principle: Keep it simple. STUPID !.
 * Centralized vs Distributed
 * TERABYTE Mirroring Best Practices
-* Faster Data Load Technique ( DuckDB )
+* In Memory Processing. DuckDB. 
+* Hardware Design (SSD, Cloud, Isolation B/P)
 
 ## Server Architecture 
 * Connection Process ( Thread Vs Process )

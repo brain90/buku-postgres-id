@@ -12,6 +12,7 @@ Author: @gibrain, @100%Linux
 * TERABYTE Mirroring Best Practices
 * In Memory Processing. DuckDB. 
 * Hardware Design (SSD, Cloud, Isolation B/P)
+* Data Type Vs Data Volume
 
 ## Server Architecture 
 * Connection Process ( Thread Vs Process )

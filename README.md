@@ -3,6 +3,16 @@
 Kitab postgres bahasa indonesia
 Author: @gibrain, @100%Linux
 
+## Why Postgres
+* Postgres vs Mysql (Uber, tiket.com, openAi)
+* Process based pros
+
+## Postgres Weakness
+* Process based
+* Huge per connection memory usage
+* When not to use pg
+* Be an Agnostic
+ 
 ## Engineering Wisdom
 * Data Valuation vs Backup 
 * Don't start production without backup

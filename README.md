@@ -81,6 +81,11 @@ Author: @gibrain, @100%Linux
 * Write Ahead Log(WAL) Archiving
 * Recovery configuration
 * Point in Time Recovery using WAL Archives
+
+## Fault tolerance
+* Normal ( Downtime, Manual Fail Over)
+* Advance ( Automatic Fail Over )
+* Extreme ( Self Healing )
  
 ## High Availability
 * Transaction Log Archiving 

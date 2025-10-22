@@ -7,6 +7,11 @@ Author: @gibrain, @100%Linux
 * Postgres vs Mysql (Uber, tiket.com, openAi)
 * Process based pros
 
+## System Down Vs Hilang Ratusan Juta
+* Berapa harga data anda ?
+* SLA Issues. Berapa sales terbuang. jika down : 1 menit, 10 menit, 1 jam, 1 hari
+* Bagaimana Dengan Kepercayaan Customer ? 
+
 ## Postgres Weakness
 * Process based
 * Huge per connection memory usage

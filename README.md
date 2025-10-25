@@ -13,6 +13,15 @@ Author: @gibrain, @100%Linux
 * Northwind in Indonesia
 * From Setup To Scaling 
 
+## Membongkar tradisi jahiliyah
+* Backup dengan cron
+* Backup diletakkan di mesin yg sama
+* Bagaimana jika sistem down saat backup blm terjadi ?
+* Tidak ada yg bisa jamin layer hardware, network, o/s
+* Paparkan semua skenario terburuk yang mungkin terjadi
+  * Human error. drop database. salah update
+* Debug di production 
+
 ## System Down Vs Hilang Ratusan Juta
 * Berapa harga data anda ?
 * SLA Issues. Berapa sales terbuang. jika down : 1 menit, 10 menit, 1 jam, 1 hari
@@ -100,7 +109,13 @@ Author: @gibrain, @100%Linux
   * Keep Wal di master
   * Keep Wal jg distandby
 * Connection Pooling 
-* Jangan OverEngineering. Evolusi sesuai kebutuhan. 
+* Jangan OverEngineering. Evolusi sesuai kebutuhan.
+* Simulasi Disaster. Auto Recovery sesuai fault tolerance level.
+
+## Best Practices
+* Tipe Data: tanggal & timezone, uang
+* Text vs Varchar 
+* Kapan Harus denormalize
 
 ## Database Security
 * Users and Groups

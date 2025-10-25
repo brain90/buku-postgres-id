@@ -4,8 +4,14 @@ Kitab postgres bahasa indonesia
 Author: @gibrain, @100%Linux
 
 ## Why Postgres
-* Postgres vs Mysql (Uber, tiket.com, openAi)
-* Process based pros
+* Postgres vs Mysql
+* Process vs Threaded Based (Analogi Komplek & Apartemen)
+* Contoh kasus mengapa threaded based berbahaya
+
+## Flow
+* Peristent case studies from end to end
+* Northwind in Indonesia
+* From Setup To Scaling 
 
 ## System Down Vs Hilang Ratusan Juta
 * Berapa harga data anda ?
@@ -28,6 +34,7 @@ Author: @gibrain, @100%Linux
 * In Memory Processing. DuckDB. 
 * Hardware Design (SSD, Cloud, Isolation B/P)
 * Data Type Vs Data Volume
+* Application vs Database Centric
 
 ## Server Architecture 
 * Connection Process ( Thread Vs Process )

@@ -52,6 +52,14 @@ Author: @gibrain, @100%Linux
 * Cluster Initialization & Running
 * Server Configuration (Parameter, File Locations, Connections & Authentication, Resource Consumption, Wal settings, etc) 
 
+## Database Design 101
+* Party Model
+* Northwind ID
+* Generate 1 Juta Data
+* CRUD: Create, Read, Update, Delete
+* Konsep JOIN
+* View, Procedure, Materialize Table
+
 ## Database Backup Rules
 * Do not start production without a backup
 * 3-2-1 Backup Rules.

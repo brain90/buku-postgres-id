@@ -3,6 +3,10 @@
 Kitab postgres bahasa indonesia
 Author: @gibrain, @100%Linux
 
+## Pengantar
+* Mengapa butuh database
+* prinsip: filosofi diatas teknis. (mengapa harus backup, mengapa harus transaction)
+
 ## Why Postgres
 * Postgres vs Mysql
 * Process vs Threaded Based (Analogi Komplek & Apartemen)
@@ -124,6 +128,7 @@ Author: @gibrain, @100%Linux
 * Tipe Data: tanggal & timezone, uang
 * Text vs Varchar 
 * Kapan Harus denormalize
+* Konsistensi HTTP GET & POST -> Read vs Write ke primary & Mirror
 
 ## Database Security
 * Users and Groups

@@ -18,12 +18,6 @@ Author: @gibrain, @100%Linux
 * SLA Issues. Berapa sales terbuang. jika down : 1 menit, 10 menit, 1 jam, 1 hari
 * Bagaimana Dengan Kepercayaan Customer ? 
 
-## Postgres Weakness
-* Process based
-* Huge per connection memory usage
-* When not to use pg
-* Be an Agnostic
- 
 ## Engineering Wisdom
 * Data Valuation vs Backup 
 * Don't start production without backup
@@ -100,14 +94,14 @@ Author: @gibrain, @100%Linux
 * Extreme ( Self Healing )
  
 ## High Availability
+* Skenario & Teknik Desain
 * Transaction Log Archiving 
-* Streaming Replication
-* Connection Pooling and HA setup using pgpool-II
-* Installation
-* Configuration
-* pgpool Setup
-* HA Setup
- 
+* Streaming Replication / Mirror
+  * Keep Wal di master
+  * Keep Wal jg distandby
+* Connection Pooling 
+* Jangan OverEngineering. Evolusi sesuai kebutuhan. 
+
 ## Database Security
 * Users and Groups
 * Access Control

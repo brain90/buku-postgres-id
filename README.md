@@ -32,6 +32,7 @@ Author: @gibrain, @100%Linux
 * Bagaimana Dengan Kepercayaan Customer ? 
 
 ## Engineering Wisdom
+* Pentingnya Constraint. Kita tidak bisa kontrol Application Layer. (SO vs Inv Case Studies).   
 * Data Valuation vs Backup 
 * Don't start production without backup
 * Mirror is not backup (Mirror vs BaseBackup)
